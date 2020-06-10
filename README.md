@@ -25,8 +25,10 @@ Possui 26 anos de experiência na área de Gestão Governamental com forte viés
 ## Projetos:
    
 Veja os tutoriais publicados por Leonardo Ferreira:
-   
+
+* **Case Airbnb - Cidade do Rio de Janeiro** https://bit.ly/2XS44Y8
 * **DATA GOVERNANCE IN THE BIG DATE CONTEXT: A BIBLIOMETRIC STUDY:** https://bit.ly/2AjJKWQ
+
 
 
 
