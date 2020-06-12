@@ -26,8 +26,8 @@ Possui 26 anos de experiência na área de Gestão Governamental com forte viés
    
 Veja os tutoriais publicados por Leonardo Ferreira:
 
-* **Case Airbnb - Cidade do Rio de Janeiro** https://bit.ly/2XS44Y8
-* **DATA GOVERNANCE IN THE BIG DATE CONTEXT: A BIBLIOMETRIC STUDY:** https://bit.ly/2AjJKWQ
+* **Data Science: Analisando os Dados da Airbnb no Rio de Janeiro**. 10/06/2020.  https://bit.ly/2XS44Y8
+* **DATA GOVERNANCE IN THE BIG DATE CONTEXT: A BIBLIOMETRIC STUDY:** 31/05/2019.  https://bit.ly/2AjJKWQ
 
 
 
